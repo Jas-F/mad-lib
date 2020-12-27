@@ -2,7 +2,7 @@
 Demonstrate understanding of python and string concatenation using MadLib generator project.
 
 ===========
-![Image](website4.png)
+![Image](MadLib.png)
 
 <br>
 
@@ -35,18 +35,12 @@ adjective: learning
 Hi! i am learning how to code in order to demonstrate that i have skills in Python.python is the learning coding language and used in Machine Learning.
 ```
 
-<br>
-
 ## Built With
 
 * [Python]
 * [launch.json]
 * [Javascript]
   
-
-## Deployed Link
-
-* [See Live Site](https://jas-f.github.io/Web-api-code-quiz/)
 
 
 ## Prerequisites
@@ -59,6 +53,9 @@ Visual studio,
 Google chrome,
 Bootstrap,
 JavaScript
+
+<br>
+
 ## Authors
 
 **Jasmine Franklin** 
