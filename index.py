@@ -1,8 +1,10 @@
-exclamation = 
-verb =
-noun =
-noun2 = 
-adjective =
+exclamation = input("exclamation: ")
+verb = input("Verb: ")
+noun = input("Noun: ")
+noun2 = input("Noun2: ")
+adjective = input("adjective: ")
 
-madLib = f"Hi! i am {verb} how to code in order to demonstrate that i have skills in Python.\
+madLib = f"{exclamation}! i am {verb} Python and string concatenation in order to demonstrate my computer programing/developer skills.\
 {noun} is the {adjective} coding language and used in {noun2}."
+
+print(madLib)
