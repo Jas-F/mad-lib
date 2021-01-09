@@ -1,5 +1,5 @@
-# mad-lib
-Demonstrate understanding of python and string concatenation using MadLib generator project.
+# Python Mad Lib
+Create a mad lib game using python.
 
 ===========
 ![Image](MadLib.png)
@@ -58,7 +58,7 @@ JavaScript
 
 ## Authors
 
-**Jasmine Franklin** 
+**Jasmine Franklin: C: 301-332-2313 E: jasminer.franklin@gmail** 
 
 - [Link to Portfolio Site](https://jas-f.github.io/responsive-portfolio/)
 - [Link to Github](https://github.com/)
