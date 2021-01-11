@@ -6,6 +6,9 @@ Demonstrate understanding of python and string concatenation using MadLib genera
 
 <br>
 
+===========
+![image](terminal.png)
+
 ## Demonstrate Use of Concatenation
 
 ```
@@ -32,7 +35,7 @@ Verb: learning
 Noun: python
 Noun2: Machine Learning
 adjective: learning
-Hi! i am learning how to code in order to demonstrate that i have skills in Python.python is the learning coding language and used in Machine Learning.
+Hi! i am learning how to code in python in order to land a position in fin tech. Python is the learning coding language and used in Machine Learning.
 ```
 
 ## Built With
