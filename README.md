@@ -9,9 +9,6 @@ Create a mad lib game using python.
 
 <br>
 
-===========
-![image](terminal.png)
-
 ## Demonstrate Use of Concatenation
 
 ```
