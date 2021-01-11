@@ -4,6 +4,9 @@ Create a mad lib game using python.
 ===========
 ![Image](MadLib.png)
 
+===========
+![Image](terminal.png)
+
 <br>
 
 ## Demonstrate Use of Concatenation
